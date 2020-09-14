@@ -1,0 +1,2 @@
+# GitStory
+Story through git
